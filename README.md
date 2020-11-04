@@ -1,2 +1,2 @@
 # ChaTaxBot
-This project is to build a chatbot on top of wordpress, DialogFlow and GCP
+This project is about building a chatbot on top of wordpress, DialogFlow and GCP
